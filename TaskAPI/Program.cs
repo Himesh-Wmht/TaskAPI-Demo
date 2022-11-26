@@ -22,5 +22,5 @@ namespace TaskAPI
                 {
                     webBuilder.UseStartup<Startup>();
                 });
-    }
+    }     
 }
